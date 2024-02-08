@@ -1,7 +1,5 @@
 ### Hi there 👋 😀 I am Jinsong Zhen
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an imputation tool as a part-time intern at a financial consulting company. 
 - 🌱 I’m currently learning advanced feature engineering tools
 - 👯 With my academic background and working experience in data analysis, I am equipped with the capabilities of data visualization, statistical analysis, data mining, geospatial data modeling, statistical modeling, predictive modeling, machine learning, deep learning, artificial intelligence, natural language processing, and programming languages to leverage cutting-edge technologies for transforming complex & big datasets into valuable data insights.
