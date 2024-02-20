@@ -8,4 +8,4 @@
 - My Porfolio: https://jzhen3.github.io/portfolio/
 
 <img width="649" alt="language" src="https://github.com/jzhen3/jzhen3/assets/43261136/af12c093-aa9d-4ae9-a11e-644bfbdd96ff">
-![microsoft-certified-azure-fundamentals](https://github.com/jzhen3/jzhen3/assets/43261136/8e336b6c-611e-4507-bc0c-babf71140845)
+<img alt="microsoft-certified-azure-fundamentals" src="https://github.com/jzhen3/jzhen3/assets/43261136/8e336b6c-611e-4507-bc0c-babf71140845">
