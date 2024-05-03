@@ -1,6 +1,6 @@
 ### Hi there 👋 😀 I am Jinsong Zhen
 
-- 🔭 As a part-time Data Scientist intern at a capital sales consulting company, I’m currently researching on random forest proximities algorithms for outlier detection,imputation tools and testing the downstream model performance with different performance metrics.
+- 🔭 As a part-time Data Scientist intern at a capital sales consulting company, I’m currently researching on random forest proximities algorithms for outlier detection & imputation tools and testing the downstream model performance with different performance metrics.
 - Side project" PDF text extraction project with Deep Learning.
 - 🌱 I’m currently learning GenAI and times series.
 - 👯 With my academic background and working experience in data analysis, I am equipped with the capabilities of data visualization, statistical analysis, data mining, geospatial data modeling, statistical modeling, predictive modeling, machine learning, deep learning, artificial intelligence, natural language processing, and programming languages to leverage cutting-edge technologies for transforming complex & big datasets into valuable data insights.
