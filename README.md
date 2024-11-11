@@ -1,5 +1,5 @@
 ### Hi there 👋 😀 I am Jinsong Zhen
-- Data Science practioner with in-depth SQL and Machine Learning Skills; please click on the repo projects if you are interested in project, such as optimization with TSP technique (traveling salesman problem).
+- Data Science practioner with in-depth SQL and Machine Learning Skills; please click on my repo projects if you are interested in project, such as optimization with TSP technique (traveling salesman problem).
 - 🔭 As a Data Scientist intern at a capital sales consulting company in the past 6 months, I researched on the application of random forest proximities algorithms on outlier detection & missing-value imputation and evaluating the downstream model performance with different evaluation metrics on fund data.
 - Side project: PDF text extraction project with Deep Learning (AWS Textract).
 - 🌱 I’m currently conducting large language model projects and helping to write Random Forest Proximity Paper.
