@@ -2,7 +2,7 @@
 - Data Science practioner with in-depth SQL and Machine Learning Skills; please click on my repo projects if you are interested in project, such as optimization with TSP technique (traveling salesman problem).
 - As a price data analyst at Ontic Engineering & Manufacturing, INC., I majorly wrote SQL and applied Power BI to conduct the gross profits analysis, price volume optimization and track the quote turnaround time and quote efficiency.
 - 🔭 As a Data Scientist intern at Prospect 33 in 2024, I researched on the application of random forest proximities algorithms on outlier detection & missing-value imputation and evaluating the performance of unsupervised outlier detectors against the newly deisgned Random Forest Uni model with the ranked performance metrics using Box Plot.
-- section 3.2 <img width="200" alt="Paper: Explainable Unsupervised Anomaly Detection with Random Forest" src="https://arxiv.org/html/2504.16075v1">
+- section 3.2 [Paper: Explainable Unsupervised Anomaly Detection with Random Forest](https://arxiv.org/html/2504.16075v1)
 - Side project: PDF text extraction project with Deep Learning (AWS Textract).
 - 🌱 I’m currently conducting large language model projects and helping to write Random Forest Proximity Paper.
 - 👯 With my academic background and working experience in data analysis, I am equipped with the capabilities of data visualization, statistical analysis, data mining, geospatial data modeling, statistical modeling, predictive modeling, machine learning, deep learning, artificial intelligence, natural language processing, and programming languages to leverage cutting-edge technologies for transforming complex & big datasets into valuable data insights.
